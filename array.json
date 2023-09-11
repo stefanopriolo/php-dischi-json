@@ -1,42 +1,42 @@
 [
     {
         "id": 1,
-        "img": "https://ondarock.it/images/cover/cover_OR_1524996662.jpg",
+        "img": "./imgs/discosole.jpg",
         "title": "Disco Sole",
         "artist": "Nu Genea",
         "year": 2018
     },
     {
         "id": 2,
-        "img": "https://m.media-amazon.com/images/I/918SLRbvSfL._UF1000,1000_QL80_.jpg",
+        "img": "./imgs/dogs.jpg",
         "title": "Dogs",
         "artist": "Pink Floyd",
         "year": 1977
     },
     {
         "id": 3,
-        "img": "https://images-eu.ssl-images-amazon.com/images/I/51paFJa0tLL._AC_UL600_SR600,600_.jpg",
-        "title": "Morelli Mirko",
+        "img": "./imgs/aldiqua.jpg",
+        "title": "Sogni",
         "artist": "Samuele Bersani",
-        "year": 2000
+        "year": 2006
     },
     {
         "id": 4,
-        "img": "https://upload.wikimedia.org/wikipedia/en/5/57/GenesisSellingEngland.jpg",
+        "img": "./imgs/firth.jpg",
         "title": "Firth Of Fifth",
         "artist": "Genesis",
         "year": 1973
     },
     {
         "id": 5,
-        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/DS_Dire_Straits.jpg/220px-DS_Dire_Straits.jpg",
+        "img": "./imgs/down.jpg",
         "title": "Down To The Waterline",
         "artist": "Dire Straits",
         "year": 2018
     },
     {
         "id": 6,
-        "img": "https://images.genius.com/28fc78318a4e6ddfceb2744895a16181.999x999x1.jpg",
+        "img": "./imgs/pata.jpg",
         "title": "Pataphysic",
         "artist": "Hailstorm",
         "year": 2022
